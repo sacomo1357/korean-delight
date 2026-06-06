@@ -1,0 +1,28 @@
+{
+  "parent": "korean_food:root",
+  "display": {
+    "icon": {
+      "id": "korean_food:tofu"
+    },
+    "title": {
+      "translate": "advancement.korean_food.tofu.title"
+    },
+    "description": {
+      "translate": "advancement.korean_food.tofu.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "consume_tofu": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "korean_food:tofu"
+        }
+      }
+    }
+  }
+}

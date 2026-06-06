@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "korean_food:block/soybean_crop_stage1"
+  },
+  "render_type": "minecraft:cutout"
+}

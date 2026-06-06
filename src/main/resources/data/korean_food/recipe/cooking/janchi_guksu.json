@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "korean_food:somen"
+    },
+    {
+      "item": "korean_food:soy_sauce"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "korean_food:green_onion"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:janchi_guksu"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "korean_food:gochujang"
+    },
+    {
+      "item": "korean_food:garlic"
+    },
+    {
+      "item": "korean_food:sesame_seeds"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:yangnyeom_chicken"
+  }
+}

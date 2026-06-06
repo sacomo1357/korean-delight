@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "tag": "c:pork"
+    },
+    {
+      "item": "korean_food:gochujang"
+    },
+    {
+      "item": "korean_food:garlic"
+    },
+    {
+      "item": "korean_food:green_onion"
+    },
+    {
+      "item": "korean_food:sesame_oil"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:jeyuk"
+  }
+}

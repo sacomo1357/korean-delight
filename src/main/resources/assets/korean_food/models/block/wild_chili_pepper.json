@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "korean_food:block/wild_chili_pepper"
+  },
+  "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "korean_food:root",
+  "display": {
+    "icon": {
+      "id": "korean_food:kimchi"
+    },
+    "title": {
+      "translate": "advancement.korean_food.kimchi.title"
+    },
+    "description": {
+      "translate": "advancement.korean_food.kimchi.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "consume_kimchi": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "korean_food:kimchi"
+        }
+      }
+    }
+  }
+}

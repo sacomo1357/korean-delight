@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "korean_food:chili_pepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "korean_food:chili_powder"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "korean_food:block/green_onion_crop_stage4"
+  },
+  "render_type": "minecraft:cutout"
+}

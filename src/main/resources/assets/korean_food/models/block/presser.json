@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "korean_food:block/presser_side",
+    "down": "korean_food:block/presser_bottom",
+    "up": "korean_food:block/presser_top",
+    "north": "korean_food:block/presser_side",
+    "east": "korean_food:block/presser_side",
+    "south": "korean_food:block/presser_side",
+    "west": "korean_food:block/presser_side"
+  }
+}

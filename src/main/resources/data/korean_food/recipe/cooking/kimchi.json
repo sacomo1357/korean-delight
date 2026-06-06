@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:crops/cabbage"
+    },
+    {
+      "item": "korean_food:chili_powder"
+    },
+    {
+      "item": "korean_food:garlic"
+    },
+    {
+      "item": "korean_food:salt"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:kimchi"
+  }
+}

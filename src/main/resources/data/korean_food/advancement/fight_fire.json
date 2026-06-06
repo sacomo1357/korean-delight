@@ -1,0 +1,37 @@
+{
+  "parent": "korean_food:kimchi",
+  "display": {
+    "icon": {
+      "id": "korean_food:kimchi"
+    },
+    "title": {
+      "translate": "advancement.korean_food.fight_fire.title"
+    },
+    "description": {
+      "translate": "advancement.korean_food.fight_fire.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enter_lava_with_fire_res": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:lava",
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "effects": {
+                "minecraft:fire_resistance": {}
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

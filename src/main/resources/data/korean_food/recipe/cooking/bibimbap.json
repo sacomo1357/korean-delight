@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "item": "korean_food:kimchi"
+    },
+    {
+      "tag": "c:beef"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "korean_food:sesame_oil"
+    },
+    {
+      "item": "korean_food:gochujang"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:bibimbap"
+  }
+}

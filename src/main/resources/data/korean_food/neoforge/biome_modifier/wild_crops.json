@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "korean_food:wild_chili_pepper",
+    "korean_food:wild_garlic",
+    "korean_food:wild_sesame",
+    "korean_food:wild_green_onion",
+    "korean_food:wild_soybean"
+  ],
+  "step": "vegetal_decoration"
+}

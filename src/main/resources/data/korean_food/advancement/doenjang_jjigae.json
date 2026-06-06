@@ -1,0 +1,28 @@
+{
+  "parent": "korean_food:root",
+  "display": {
+    "icon": {
+      "id": "korean_food:doenjang_jjigae"
+    },
+    "title": {
+      "translate": "advancement.korean_food.doenjang_jjigae.title"
+    },
+    "description": {
+      "translate": "advancement.korean_food.doenjang_jjigae.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "consume_doenjang_jjigae": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "korean_food:doenjang_jjigae"
+        }
+      }
+    }
+  }
+}

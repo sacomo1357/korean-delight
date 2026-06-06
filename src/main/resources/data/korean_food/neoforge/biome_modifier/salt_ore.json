@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "korean_food:salt_ore"
+  ],
+  "step": "underground_ores"
+}

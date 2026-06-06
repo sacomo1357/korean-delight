@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "count": 1,
+    "id": "minecraft:bowl"
+  },
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "korean_food:deep_fried_noodles"
+    },
+    {
+      "item": "korean_food:chili_powder"
+    },
+    {
+      "item": "korean_food:chili_powder"
+    },
+    {
+      "item": "korean_food:chili_powder"
+    },
+    {
+      "item": "korean_food:gochujang"
+    },
+    {
+      "item": "korean_food:green_onion"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:buldak_bokkeum_myeon"
+  }
+}

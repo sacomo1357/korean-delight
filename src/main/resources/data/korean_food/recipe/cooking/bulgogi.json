@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.8,
+  "ingredients": [
+    {
+      "tag": "c:beef"
+    },
+    {
+      "item": "korean_food:soy_sauce"
+    },
+    {
+      "item": "korean_food:garlic"
+    },
+    {
+      "item": "korean_food:green_onion"
+    },
+    {
+      "item": "korean_food:sesame_oil"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 1,
+    "id": "korean_food:bulgogi"
+  }
+}
